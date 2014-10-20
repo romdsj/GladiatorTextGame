@@ -1,0 +1,5 @@
+C:\Users\Romain\Documents\jeuCombatGlad\jeuCombatGlad\bin\Debug\jeuCombatGlad.exe
+C:\Users\Romain\Documents\jeuCombatGlad\jeuCombatGlad\bin\Debug\jeuCombatGlad.pdb
+C:\Users\Romain\Documents\jeuCombatGlad\jeuCombatGlad\obj\x86\Debug\jeuCombatGlad.csprojResolveAssemblyReference.cache
+C:\Users\Romain\Documents\jeuCombatGlad\jeuCombatGlad\obj\x86\Debug\jeuCombatGlad.exe
+C:\Users\Romain\Documents\jeuCombatGlad\jeuCombatGlad\obj\x86\Debug\jeuCombatGlad.pdb
